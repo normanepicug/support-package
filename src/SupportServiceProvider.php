@@ -1,5 +1,5 @@
 <?php
-namespace Haroob\Support;
+namespace Normanepicug\Support;
 use Illuminate\Support\ServiceProvider;
 
 class SupportServiceProvider extends ServiceProvider

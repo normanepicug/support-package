@@ -1,6 +1,6 @@
 <?php
 
-namespace Haroob\Support\Mail;
+namespace Normanepicug\Support\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Haroob\Support\Models;
+namespace Normanepicug\Support\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

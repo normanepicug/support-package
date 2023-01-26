@@ -1,6 +1,6 @@
 <?php
 
-namespace Haroob\Support\Http\Controllers;
+namespace Normanepicug\Support\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Haroob\Support\Mail\SupportMailable;
 use Haroob\Support\Models\Support;

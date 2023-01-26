@@ -1,4 +1,4 @@
 <?php
 return [
-    'send_email_to'=>"navicom.a@gmail.com"
+    'send_email_to'=>"navi.a@gmail.com"
 ];
